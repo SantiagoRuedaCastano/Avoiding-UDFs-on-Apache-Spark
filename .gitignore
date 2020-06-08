@@ -144,7 +144,5 @@ buildNumber.properties
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
 
-testAT/src/test/resources/docker/datio/spark/lib
-
 # Avoid out files
 .ipynb_checkpoints/*
